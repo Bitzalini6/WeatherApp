@@ -1,0 +1,13 @@
+body {
+  background: grey;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+
+.container {
+  max-width: 400px;
+  background-color: aliceblue;
+  border-style: dotted;
+  border-color: blue;
+  max-height: fit-content;
+}
